@@ -1,0 +1,7 @@
+{
+  "name": "UPENJAnet",
+  "description": "Sugarcane farm record and field operations management across zones",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
